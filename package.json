@@ -1,0 +1,25 @@
+{
+  "name": "jwt",
+  "version": "0.0.1",
+  "description": "JWT Tests",
+  "main": "app.js",
+  "scripts": {
+    "test": "test app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunohl91/jwt.git"
+  },
+  "keywords": [
+    "jwt",
+    "tests",
+    "node",
+    "express"
+  ],
+  "author": "Bruno Leite",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brunohl91/jwt/issues"
+  },
+  "homepage": "https://github.com/brunohl91/jwt#readme"
+}
